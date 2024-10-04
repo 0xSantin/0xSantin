@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @0xSantin
-- 👀 I’m interested in become a developer.
-- 🌱 I’m currently learning lua language.
-- 💞️ I’m looking to collaborate on lua/python projects.
+- 👀 I’m interested in become a full stack developer.
+- 🌱 I’m currently learning lua/rust language.
+- 💞️ I’m looking to collaborate on python data science projects.
