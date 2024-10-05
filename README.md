@@ -5,6 +5,6 @@
 - Programming Languages: Python 🐍, Java ☕, 
 - Databases: MySQL
 - Machine Learning/Deep Learning: Python 🐍 , TensorFlow 🤖, R 📊, NumPy, Matplotlib 📈, Pandas 🐼
-- Streaming Data and Cloud Computing:JSON, Google Cloud Platform ☁️, IBM Cloud ☁️, Docker 🐳
-- Development Tools:Visual Studio 💻, Visual Studio Code 💻, Eclipse 🌒
+- Streaming Data and Cloud Computing: JSON, Google Cloud Platform ☁️, IBM Cloud ☁️, Docker 🐳
+- Development Tools: Visual Studio 💻, Visual Studio Code 💻, Eclipse 🌒
 - Web Development: HTML, CSS, JavaScript, PHP, ReactJS ⚛️
