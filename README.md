@@ -2,6 +2,7 @@
 - 👀 I’m interested in become a full stack developer.
 - 🌱 I’m currently learning lua/rust language.
 - 💞️ I’m looking to collaborate on data science projects.
+#Skills
 - Programming Languages: Python 🐍, Java ☕
 - Databases: MySQL
 - Machine Learning/Deep Learning: Python 🐍 , TensorFlow 🤖, R 📊, NumPy, Matplotlib 📈, Pandas 🐼
