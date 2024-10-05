@@ -1,4 +1,10 @@
 - 👋 Hi, I’m @0xSantin
 - 👀 I’m interested in become a full stack developer.
 - 🌱 I’m currently learning lua/rust language.
-- 💞️ I’m looking to collaborate on python data science projects.
+- 💞️ I’m looking to collaborate on data science projects.
+- Programming Languages: Python 🐍, Java ☕, 
+- Databases: MySQL
+- Machine Learning/Deep Learning: Python 🐍 , TensorFlow 🤖, R 📊, NumPy, Matplotlib 📈, Pandas 🐼
+- Streaming Data and Cloud Computing:JSON, Google Cloud Platform ☁️, IBM Cloud ☁️, Docker 🐳
+- Development Tools:Visual Studio 💻, Visual Studio Code 💻, Eclipse 🌒
+- Web Development: HTML, CSS, JavaScript, PHP, ReactJS ⚛️
