@@ -1,4 +1,4 @@
-# Hello
+# Hello!
 
 - 👀 I’m interested in becoming a full stack developer.
 - 🌱 I’m currently learning Lua and Rust.
