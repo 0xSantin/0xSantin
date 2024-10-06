@@ -6,7 +6,7 @@
 
 ## Skills
 
-- **Programming Languages**: Python 🐍, Java ☕
+- **Programming Languages**: Python 🐍, Java ☕, C++
 - **Databases**: MySQL
 - **Machine Learning/Deep Learning**: Python 🐍, TensorFlow 🤖, R 📊, NumPy, Matplotlib 📈, Pandas 🐼
 - **Streaming Data and Cloud Computing**: JSON, Google Cloud Platform ☁️, IBM Cloud ☁️, Docker 🐳
